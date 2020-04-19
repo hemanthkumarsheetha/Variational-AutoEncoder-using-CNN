@@ -1,1 +1,1 @@
-VAE using CNN using Tensorflow
+# VAE using CNN in Tensorflow
